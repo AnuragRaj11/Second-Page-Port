@@ -19,22 +19,15 @@ import java from "./tech/java.png";
 import mysql from "./tech/mysql.png";
 import reactjs from "./tech/reactjs.png";
 import nextJs from "./tech/nextjs.svg";
-import angular from "./tech/angular.png";
-import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
-import crmnext from "./company/crmnext.png";
-import nickelfox from "./company/nickelfox.png";
-import newgen from "./company/newgen.png";
-import skillrisers from "./company/skillrisers.png";
-import proximus from "./company/proximus.png";
+import aicte from "./company/aicte.png";
+import prodigy from "./company/prodigy.png";
+import synexoo from "./company/synexoo.jpeg";
+
+
 
 import aptihealthWeb from "./projects/aptihealthWeb.png";
 import aptihealthApp from "./projects/aptihealthApp.png";
-import zealWeb from "./projects/zealWeb.png";
-import zealApp from "./projects/zealApp.png";
-import rollWeb from "./projects/rollWeb.png";
-import rollApp from "./projects/rollApp.png";
 
 export {
   logo,
@@ -57,19 +50,8 @@ export {
   mysql,
   reactjs,
   nextJs,
-  angular,
-  redux,
   tailwind,
-  typescript,
-  crmnext,
-  nickelfox,
-  newgen,
-  skillrisers,
-  proximus,
-  aptihealthWeb,
-  aptihealthApp,
-  zealWeb,
-  zealApp,
-  rollWeb,
-  rollApp,
+  aicte,
+  prodigy,
+  synexoo,
 };

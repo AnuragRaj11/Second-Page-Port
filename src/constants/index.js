@@ -4,14 +4,11 @@ import {
   creator,
   web,
   javascript,
-  typescript,
   html,
   css,
   reactjs,
   nextJs,
-  redux,
   tailwind,
-  angular,
   nodejs,
   mongodb,
   java,
@@ -19,6 +16,9 @@ import {
   git,
   linkedIn,
   github,
+  aicte,
+  prodigy,
+  synexoo,
 } from "../assets";
 
 const navigationPaths = {
@@ -76,10 +76,6 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
     name: "React JS",
     icon: reactjs,
   },
@@ -87,17 +83,10 @@ const technologies = [
     name: "Next JS",
     icon: nextJs,
   },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
+
   {
     name: "Tailwind CSS",
     icon: tailwind,
-  },
-  {
-    name: "Angular",
-    icon: angular,
   },
   {
     name: "Node JS",
@@ -126,7 +115,7 @@ const experiences = [
     title: "AI-ML Intern",
     company_name: "AICTE - EduSkills",
     company_website: "https://www.eduskillsfoundation.org/",
-    icon: "", // Replace with imported icon if available
+    icon: aicte, 
     iconBg: "#E6DEDD",
     date: "July 2024 - September 2024",
     points: [
@@ -139,7 +128,7 @@ const experiences = [
     title: "Web Development Intern",
     company_name: "Prodigy InfoTech",
     company_website: "https://prodigyinfotech.dev/",
-    icon: "", // Replace with imported icon if available
+    icon: prodigy, 
     iconBg: "#E6DEDD",
     date: "June 2024 – July 2024",
     points: [
@@ -150,8 +139,8 @@ const experiences = [
   {
     title: "Web Development Intern",
     company_name: "Synexoo",
-    company_website: "", // Add link if available
-    icon: "", // Replace with imported icon if available
+    company_website: "https://www.linkedin.com/company/synexoo/?originalSubdomain=in",
+    icon: synexoo,
     iconBg: "#E6DEDD",
     date: "January 2025 – February 2025",
     points: [
