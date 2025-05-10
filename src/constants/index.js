@@ -16,6 +16,13 @@ import {
   git,
   linkedIn,
   github,
+  tf,
+  python,
+  pytorch,
+  scikit,
+  pandas,
+  numpy,
+  streamlit,
   aicte,
   prodigy,
   synexoo,
@@ -107,6 +114,34 @@ const technologies = [
   {
     name: "Git",
     icon: git,
+  },
+   {
+    name: "TensorFlow",
+    icon: tf, 
+  },
+    {
+    name: "Python",
+    icon: python, 
+  },
+   {
+    name: "PyTorch",
+    icon: pytorch, 
+  },
+  {
+    name: "Scikit-learn",
+    icon: scikit, 
+  },
+  {
+    name: "Pandas",
+    icon: pandas, 
+  },
+  {
+    name: "NumPy",
+    icon: numpy, 
+  },
+  {
+    name: "Streamlit",
+    icon: streamlit, 
   },
 ];
 

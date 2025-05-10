@@ -20,6 +20,13 @@ import mysql from "./tech/mysql.png";
 import reactjs from "./tech/reactjs.png";
 import nextJs from "./tech/nextjs.svg";
 import tailwind from "./tech/tailwind.png";
+import tf from "./tech/tf.png";
+import python from "./tech/python.png";
+import pytorch from "./tech/pytorch.png";
+import scikit from "./tech/scikit.png";
+import pandas from "./tech/pandas.png";
+import numpy from "./tech/numpy.png";
+import streamlit from "./tech/streamlit.png";
 import aicte from "./company/aicte.png";
 import prodigy from "./company/prodigy.png";
 import synexoo from "./company/synexoo.jpeg";
@@ -51,6 +58,13 @@ export {
   reactjs,
   nextJs,
   tailwind,
+  tf,
+  python,
+  pytorch,
+  scikit,
+  pandas,
+  numpy,
+  streamlit,
   aicte,
   prodigy,
   synexoo,
