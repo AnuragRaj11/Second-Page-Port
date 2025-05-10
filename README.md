@@ -1,37 +1,68 @@
-# 3D Portfolio Website
+Here's a clean, professional `README.md` tailored 
+# Anurag Raj — 3D Portfolio Website
 
-![3D Portfolio](https://github.com/shridharrai/3D-Portfolio/assets/50835817/78d803d6-aaaf-492c-bf2a-30881e32bcf0)
+A dynamic and responsive 3D portfolio website built using modern web technologies including **React.js**, **Three.js**, and **Tailwind CSS**, showcasing projects and experience in both **Full Stack Web Development** and **AI/ML**.
 
-Welcome to my captivating 3D portfolio website project! Harnessing the power of cutting-edge technologies, I've crafted a mesmerizing and responsive portfolio site that's not just visually stunning but also incredibly easy for anyone to personalize.
+## 🌟 Features
 
-## 🚀 Technologies Used
-- **Three.js**: The magic behind this project, a potent 3D graphics library.
-- **React Three Fiber**: Seamlessly integrate Three.js into React with this popular library.
-- **Tailwind CSS**: Elevate your design game with this utility-first CSS framework.
-- **Framer Motion**: Bring your website to life with captivating animations.
+- ⚛️ Interactive 3D landing page built with Three.js
+- 📁 Project showcase including AI/ML and Full Stack applications
+- 🧑‍💻 Experience section with roles and responsibilities
+- 🧠 Technologies section displaying tech stack
+- 📄 Resume & social links integration (LinkedIn, GitHub)
+- 🔄 Responsive design for all screen sizes
 
-## ✨ Key Features
-- **Stunning 3D Models**: Load, create, and customize breathtaking 3D models and geometries.
-- **Lighting Magic**: Implement various lights to enhance the 3D visuals, creating a visually immersive experience.
-- **Perfect Positioning**: Navigate the 3D world effortlessly with a camera and precisely position objects in space.
-- **Scalable and Reusable**: Make your codebase highly reusable and scalable with Higher Order Components (HOCs) and industry-standard best practices.
-- **Stay Connected**: Enable visitors to reach out with an integrated contact form that sends emails directly from your website.
-- **Responsive Design**: Ensure your site looks fantastic on all devices, from desktops to smartphones.
-- **Optimized Performance**: Employ Suspense and Preload techniques to deliver a blazing-fast user experience.
+## 🔧 Tech Stack
 
-## 🌐 Live Demo
-Experience it in action! Check out the <a href="https://shridharportfolio.netlify.app/" target="_blank">Live Demo</a>.
+- **Frontend:** React.js, Tailwind CSS, Three.js
+- **Backend (Projects):** Node.js, Express.js, MongoDB
+- **AI/ML:** TensorFlow, PyTorch, Scikit-learn, Streamlit
+- **Cloud:** Google Cloud Platform (GCP), Microsoft Azure
+- **Tools:** Git, GitHub, VS Code
 
+## 🚀 Getting Started
 
-## 🛠️ Usage
-You can easily create your own 3-D portfolio website using this project as a template. Just follow these steps:
-1. Clone this repository.
-2. Navigate to the project directory.
-3. Run `npm install` to install dependencies.
-4. Modify the data in `src/constants/index.js` with your own content.
-5. Run `npm start` to start the development server.
+### Prerequisites
 
-Every piece of data on the website is dynamic and originates from the constants file. Simply change the data there, and you'll have your own stunning 3-D portfolio.
+- Node.js >= 14
+- npm or yarn
 
-## 💡 Contributing
-Contributions are warmly welcomed! Whether you have suggestions, bug reports, or want to add new features, please don't hesitate to open an issue or create a pull request.
+### Installation
+
+```bash
+git clone https://github.com/AnuragRaj11/portfolio-3d.git
+cd portfolio-3d
+npm install
+npm start
+````
+
+Visit `http://localhost:3000` in your browser to see the portfolio live.
+
+## 🔗 Important Links
+
+* 🔗 [LinkedIn](https://www.linkedin.com/in/anuragraj11/)
+* 💻 [GitHub](https://github.com/AnuragRaj11)
+
+## 📌 Notable Projects
+
+* **Bookstore App** — RESTful API backend for managing books with JWT authentication.
+* **To-Do List** — Responsive task app built using HTML, CSS, JS with local storage.
+* **IMDB Sentiment Analysis** — NLP model with 90% accuracy using TensorFlow.
+* **Smart Shopping Recommender** — AI model using TF-IDF + cosine similarity via Streamlit.
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+### 🙌 Acknowledgements
+
+This portfolio is inspired by modern UI/UX and 3D design aesthetics. Special thanks to the open-source community!
+
+```
+
+---
+
+Would you like this saved as a downloadable `.md` file, or should I help you add it to your GitHub repository's root?
+```
