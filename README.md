@@ -61,8 +61,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 This portfolio is inspired by modern UI/UX and 3D design aesthetics. Special thanks to the open-source community!
 
 ```
-
----
-
-Would you like this saved as a downloadable `.md` file, or should I help you add it to your GitHub repository's root?
-```
