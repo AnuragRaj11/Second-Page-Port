@@ -36,7 +36,7 @@ npm install
 npm start
 ````
 
-Visit `http://localhost:3000` in your browser to see the portfolio live.
+Visit `https://secondpagep.netlify.app/` in your browser to see the portfolio live.
 
 ## 🔗 Important Links
 
