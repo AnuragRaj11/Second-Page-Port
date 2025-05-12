@@ -31,10 +31,10 @@ import aicte from "./company/aicte.png";
 import prodigy from "./company/prodigy.png";
 import synexoo from "./company/synexoo.jpeg";
 
-
-
-import aptihealthWeb from "./projects/aptihealthWeb.png";
-import aptihealthApp from "./projects/aptihealthApp.png";
+import zyn from "./projects/zyn.png";
+import todo from "./projects/todo.jpg";
+import panc from "./projects/panc.png";
+import chr from "./projects/chr.png";
 
 export {
   logo,
@@ -68,4 +68,8 @@ export {
   aicte,
   prodigy,
   synexoo,
+  zyn,
+  todo,
+  panc,
+  chr,
 };

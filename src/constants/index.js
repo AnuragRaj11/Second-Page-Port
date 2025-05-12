@@ -26,6 +26,10 @@ import {
   aicte,
   prodigy,
   synexoo,
+  zyn, 
+  todo,
+  panc,
+  chr,
 } from "../assets";
 
 const navigationPaths = {
@@ -187,7 +191,6 @@ const experiences = [
 
 
 const projects = [
-  // Existing web dev projects (Bookstore, To-Do) ...
 
   {
     name: "Smart Shopping AI Recommender System",
@@ -213,6 +216,19 @@ const projects = [
     image: "", // Add image or screenshot if available
     hosted_link: "https://github.com/AnuragRaj11/IMDB-Movie-Review-RNN-Project",
   },
+  {
+  name: "Pancreatic Cancer Info App",
+  description:
+    "An informative web app that educates users about pancreatic cancer — its origin, symptoms, diagnosis, and treatment options. Built using Streamlit for interactive and accessible healthcare awareness.",
+  tags: [
+    { name: "streamlit", color: "green-text-gradient" },
+    { name: "python", color: "blue-text-gradient" },
+    { name: "healthcare", color: "pink-text-gradient" }
+  ],
+  image: panc,
+  hosted_link: "https://pancreaticancer.streamlit.app/",
+  source_code_link: "https://github.com/AnuragRaj11/Pancreatic-Cancer-Info-App"
+},
    {
     name: "Bookstore App",
     description:
@@ -222,7 +238,7 @@ const projects = [
       { name: "express", color: "green-text-gradient" },
       { name: "mongodb", color: "pink-text-gradient" },
     ],
-    image: "", // Add image asset if available
+    image: zyn,
     hosted_link: "https://zynetic-backend-1.onrender.com/",
   },
   {
@@ -234,9 +250,22 @@ const projects = [
       { name: "html", color: "green-text-gradient" },
       { name: "css", color: "pink-text-gradient" },
     ],
-    image: "", // Add image asset if available
+    image: todo,
     hosted_link: "https://github.com/AnuragRaj11/To_Do_List.git",
   },
+  {
+  name: "ANN Classification - Churn Prediction",
+  description:
+    "A deep learning-based Streamlit web app that predicts customer churn using an Artificial Neural Network model. Features data preprocessing, training visualization, and interactive prediction inputs.",
+  tags: [
+    { name: "python", color: "blue-text-gradient" },
+    { name: "streamlit", color: "green-text-gradient" },
+    { name: "deep learning", color: "pink-text-gradient" }
+  ],
+  image: chr,
+  hosted_link: "https://churnann.streamlit.app/",
+  source_code_link: "https://github.com/AnuragRaj11/ANN-CLassification-Churn"
+},
 ];
 
 
