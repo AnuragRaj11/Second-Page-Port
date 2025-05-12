@@ -35,6 +35,8 @@ import zyn from "./projects/zyn.png";
 import todo from "./projects/todo.jpg";
 import panc from "./projects/panc.png";
 import chr from "./projects/chr.png";
+import imdb from "./projects/imdb.png";
+import prs from "./projects/prs.png";
 
 export {
   logo,
@@ -72,4 +74,6 @@ export {
   todo,
   panc,
   chr,
+  imdb,
+  prs,
 };

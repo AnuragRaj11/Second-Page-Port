@@ -30,6 +30,8 @@ import {
   todo,
   panc,
   chr,
+  imdb,
+  prs,
 } from "../assets";
 
 const navigationPaths = {
@@ -201,7 +203,7 @@ const projects = [
       { name: "nlp", color: "green-text-gradient" },
       { name: "streamlit", color: "pink-text-gradient" },
     ],
-    image: "", // Add image or screenshot if available
+    image: prs,
     hosted_link: "https://github.com/AnuragRaj11/GFG_AH.git",
   },
   {
@@ -213,7 +215,7 @@ const projects = [
       { name: "rnn", color: "green-text-gradient" },
       { name: "nlp", color: "pink-text-gradient" },
     ],
-    image: "", // Add image or screenshot if available
+    image: imdb, 
     hosted_link: "https://github.com/AnuragRaj11/IMDB-Movie-Review-RNN-Project",
   },
   {
