@@ -3,12 +3,9 @@ import {
   backend,
   creator,
   web,
-  javascript,
-  html,
-  css,
+  ht,
   reactjs,
   nextJs,
-  tailwind,
   nodejs,
   mongodb,
   java,
@@ -22,7 +19,6 @@ import {
   scikit,
   pandas,
   numpy,
-  streamlit,
   aicte,
   prodigy,
   synexoo,
@@ -77,16 +73,8 @@ const services = [
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
-  },
-  {
-    name: "CSS 3",
-    icon: css,
-  },
-  {
-    name: "JavaScript",
-    icon: javascript,
+    name: "HTML 5, CSS, JS",
+    icon: ht,
   },
   {
     name: "React JS",
@@ -95,11 +83,6 @@ const technologies = [
   {
     name: "Next JS",
     icon: nextJs,
-  },
-
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
   },
   {
     name: "Node JS",
@@ -144,10 +127,6 @@ const technologies = [
   {
     name: "NumPy",
     icon: numpy, 
-  },
-  {
-    name: "Streamlit",
-    icon: streamlit, 
   },
 ];
 
