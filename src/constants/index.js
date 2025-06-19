@@ -263,7 +263,7 @@ On the AI side, I've developed production-ready deep learning and NLP models usi
 
 const publicUrls = {
   resume:
-    "https://drive.google.com/file/d/1z7eKMfIOb9omWWOqBaLdN6lKZwvoTQIb/view?usp=sharing",
+    "https://docs.google.com/document/d/1MYxhnzr0TagVzx3iRtb1uYmodjcTPigfd2shFCOWmPg/ed",
   socialProfiles: {
     linkedin: {
       title: "linkedin",
