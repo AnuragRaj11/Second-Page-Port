@@ -34,6 +34,8 @@ import panc from "./projects/panc.png";
 import chr from "./projects/chr.png";
 import imdb from "./projects/imdb.png";
 import prs from "./projects/prs.png";
+import AIcart from "./projects/AIcart.png";
+import AIRes from "./projects/AIRes.png";
 
 export {
   logo,
@@ -69,4 +71,6 @@ export {
   chr,
   imdb,
   prs,
+  AIcart,
+  AIRes,
 };

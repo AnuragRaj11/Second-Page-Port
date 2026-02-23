@@ -222,7 +222,7 @@ const projects = [
       { name: "Node.js", color: "green-text-gradient" },
       { name: "MongoDB", color: "pink-text-gradient" },
     ],
-    image: zyn,
+    image: AIRes,
     hosted_link: "https://github.com/AnuragRaj11/AdGuard-360_Technova",
     source_code_link: "https://github.com/AnuragRaj11/AdGuard-360_Technova",
   },
